@@ -1,0 +1,29 @@
+[33mcommit a724fa5b1200aa47e3a88b44179feef9e704fb53[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dipanjan Jayswal <iamdipanjanjayswal@gmail.com>
+Date:   Sat May 23 20:01:05 2020 +0530
+
+    added win detection animation
+
+[33mcommit f1bd2c6b4fa7871dd22f522d5148551b3b15b22a[m
+Author: Dipanjan Jayswal <iamdipanjanjayswal@gmail.com>
+Date:   Fri May 22 22:38:26 2020 +0530
+
+    completed the maze and added the goal point
+
+[33mcommit ad4b5bef2fc89923eab79d8e1ebd443f6ca5be83[m
+Author: Dipanjan Jayswal <iamdipanjanjayswal@gmail.com>
+Date:   Sat May 16 21:47:59 2020 +0530
+
+    Maze generation algorithm implementation to draw maze
+
+[33mcommit 5860212207b6642ffc4c8921140ca47e0024d983[m
+Author: Dipanjan Jayswal <iamdipanjanjayswal@gmail.com>
+Date:   Fri May 15 22:08:44 2020 +0530
+
+    matter-js implement draw shapes
+
+[33mcommit 25a77d5ea7ecd84be82815225b6e007c6157b3ae[m
+Author: Dipanjan Jayswal <iamdipanjanjayswal@gmail.com>
+Date:   Fri May 15 20:10:36 2020 +0530
+
+    started maze game
